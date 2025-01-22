@@ -1,5 +1,6 @@
 # aS_ReverseVendingMachine
 Reverse Vending Machine Prop for FiveM
+
 Information:
 - This prop needs additional script to spawn this prop.
 - It can also be spawned by a map editor.
