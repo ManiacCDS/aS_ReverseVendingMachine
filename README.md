@@ -6,6 +6,7 @@ Information:
 - It can also be spawned by a map editor.
 - The prop is static ( it won't move when collided with a player or a car ).
 - Metal sound when shooting with a gun.
+- Emissive glowing screen and bottle insert lines.
 
 Important:
 - **If you are going to use this prop in any of your free scripts, please make an attribution.**
